@@ -7,4 +7,4 @@
 ### [SpringMVC & Thymeleaf](https://github.com/rusandal/hellow-world-springMVC-thymeleaf--for)
 ### [JavaScript calculator](https://github.com/rusandal/js-calculator)
 ### [ObservationApi->zipkin](https://github.com/rusandal/SpringBoot3_ObservationAPI)
-### [Openapi generator](https://github.com/rusandal/openapi-maven-class-generator)
+### [Openapi class generator](https://github.com/rusandal/openapi-maven-class-generator)
